@@ -1,0 +1,5 @@
+@import "_mixins/font-face";
+
+@include font-face("Poppins-Regular", "../fonts/PoppinsRegular/PoppinsRegular", 400);
+@include font-face("Poppins-Medium", "../fonts/PoppinsMedium/PoppinsMedium", 500);
+@include font-face("Poppins-SemiBold", "../fonts/PoppinsSemiBold/PoppinsSemiBold", 600);
